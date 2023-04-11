@@ -1,0 +1,13 @@
+n: 10, max variance: 100, min_year: 2012, min_peso: 0.05, max_peso: 0.1
+solution: 0.00192665
+acoes: 
+CPFE3 -> 0.1
+CYRE3 -> 0.1
+JBSS3 -> 0.1
+MGLU3 -> 0.1
+PRIO3 -> 0.1
+RADL3 -> 0.1
+RENT3 -> 0.1
+SUZB3 -> 0.1
+TIMS3 -> 0.1
+VIIA3 -> 0.1
